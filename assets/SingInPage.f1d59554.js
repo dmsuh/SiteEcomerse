@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.ed23a1d7.js";import{af as a,m as r,n as c}from"./index.54167039.js";const t={};function n(o,s){return r(),c(e,{class:"full-height full-height"})}var _=a(t,[["render",n]]);export{_ as default};
